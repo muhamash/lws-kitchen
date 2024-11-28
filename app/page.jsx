@@ -1,13 +1,17 @@
-'use client';
-
+// 'use client';
 import DecliciousCard from "@/components/home/DecliciousCard";
 import HandPicked from "@/components/home/HandPicked";
 import Hero from "@/components/home/Hero";
 import Inbox from "@/components/home/Inbox";
 import Latest from "@/components/home/Latest";
 import PopularCatCard from "@/components/home/PopularCatCard";
+import recipe from '../data/recipes.json';
 
-export default function Home() {
+export default function Home ()
+{
+  console.log( recipe[1] );
+
+  
   return (
     <div className="container mx-auto px-4 mt-[100px]">
       <Hero />

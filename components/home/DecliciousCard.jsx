@@ -1,5 +1,5 @@
 import Image from "next/image";
-import DeliciousImage from "../../assets/thumbs/thumb-11.jpg";
+import DeliciousImage from "../../assets/thumbs/thumb-10.jpg";
 
 export default function DecliciousCard() {
     return (
