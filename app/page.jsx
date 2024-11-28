@@ -1,37 +1,39 @@
-import DecliciousCard from "@/components/DecliciousCard";
-import HandPicked from "@/components/HandPicked";
-import Hero from "@/components/Hero";
-import Inbox from "@/components/Inbox";
-import Latest from "@/components/Latest";
-import PopularCatCard from "@/components/PopularCatCard";
+'use client';
+
+import DecliciousCard from "@/components/home/DecliciousCard";
+import HandPicked from "@/components/home/HandPicked";
+import Hero from "@/components/home/Hero";
+import Inbox from "@/components/home/Inbox";
+import Latest from "@/components/home/Latest";
+import PopularCatCard from "@/components/home/PopularCatCard";
 
 export default function Home() {
   return (
     <div className="container mx-auto px-4 mt-[100px]">
       <Hero />
 
-      {/* super delicious */ }
+      {/* Super Delicious */ }
       <div className="mb-16" id="super_delicious">
         <h2 className="text-3xl font-bold mb-8">Super Delicious</h2>
         <div className="grid md:grid-cols-3 gap-8">
           <DecliciousCard />
           <DecliciousCard />
           <DecliciousCard />
-          <DecliciousCard/>
+          <DecliciousCard />
         </div>
       </div>
 
-      {/* popular category section */ }
+      {/* Popular Category Section */ }
       <PopularCatCard />
-      
-      {/* inbox */ }
+
+      {/* Inbox */ }
       <Inbox />
-      
-      {/* hand-picked collection */ }
+
+      {/* Hand-picked Collection */ }
       <HandPicked />
-      
-      {/* latest recipe */ }
-      <Latest/>
-   </div>
+
+      {/* Latest Recipe */ }
+      <Latest />
+    </div>
   );
 }
