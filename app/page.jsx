@@ -5,7 +5,7 @@ import Hero from "@/components/home/Hero";
 import Inbox from "@/components/home/Inbox";
 import Latest from "@/components/home/Latest";
 import PopularCatCard from "@/components/home/PopularCatCard";
-import recipe from '../data/recipes.json';
+import recipe from '/public/data/recipes.json';
 
 export default function Home ()
 {

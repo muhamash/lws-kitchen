@@ -1,5 +1,5 @@
 import Image from "next/image";
-import HeaderImage from "/assets/lws-kitchen.png";
+import HeaderImage from "../public/assets/lws-kitchen.png";
 
 export default function Header() {
     return (
