@@ -1,6 +1,25 @@
 import Cat from "./Cat";
+import categoryData from '/public/data/categories.json';
+import recipeData from '/public/data/recipes.json';
 
-export default function PopularCatCard() {
+export default function PopularCatCard ()
+{
+    const categoryCount = recipeData.reduce( ( acc, recipe ) =>
+    {
+        acc[ recipe.category_id ] = ( acc[ recipe.category_id ] || 0 ) + 1;
+        return acc;
+    }, {} );
+
+    const topPopularData = categoryData
+        .map( ( category ) => ( {
+            ...category,
+            popularity: categoryCount[ category.id ] || 0,
+        } ) )
+        .sort( ( a, b ) => b.popularity - a.popularity )
+        .slice( 0, 6 );
+
+    console.log( topPopularData.length );
+
     return (
         <section className="mb-16">
             <div className="flex justify-between items-top">
@@ -8,11 +27,11 @@ export default function PopularCatCard() {
                 <a href="./category.html" className="text-orange-500">View All</a>
             </div>
             <div className="grid grid-cols-3 md:grid-cols-6 gap-4">
-                <Cat />
-                <Cat />
-                <Cat />
-                <Cat />
-                <Cat />
+                {
+                    topPopularData?.map( ( data ) => (
+                        <Cat key={data.id} data={data}/>
+                    ))
+                }
             </div>
         </section>
     );

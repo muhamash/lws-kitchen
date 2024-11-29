@@ -4,7 +4,7 @@ import recipe from '/public/data/recipes.json';
 export default function Hero ()
 {
     const heroImage = `/assets/thumbs/${recipe[ 1 ].thumbnail}`;
-    
+
     return (
         <section className="mb-16 bg-orange-50">
             <div className="grid md:grid-cols-2 gap-8 items-center">
