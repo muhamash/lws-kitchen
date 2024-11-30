@@ -1,19 +1,20 @@
 import Image from "next/image";
+import Link from "next/link";
 import HeaderImage from "../public/assets/lws-kitchen.png";
 
 export default function Header() {
     return (
         <header className="container mx-auto px-4 py-4 shadow-lg fixed top-0 left-0 right-0 bg-white z-50">
             <nav className="flex justify-between items-center">
-                <a href="/index.html" className="text-3xl font-bold">
+                <Link href="/" className="text-3xl font-bold">
                     {/* <img src="./assets/lws-kitchen.png" className="h-10" /> 
                     */}
                     <Image src={ HeaderImage } alt={ "header" } className="h-10 w-fit" />
-                </a>
+                </Link>
                 <ul className="hidden md:flex space-x-6">
-                    <li><a href="./index.html" className="hover:text-orange-500">Home</a></li>
-                    <li><a href="./category.html" className="hover:text-orange-500">Categories</a></li>
-                    <li><a href="./recipes.html" className="hover:text-orange-500">Latest Recipes</a></li>
+                    <li><Link href="/" className="hover:text-orange-500">Home</Link></li>
+                    <li><Link href="/category" className="hover:text-orange-500">Categories</Link></li>
+                    <li><Link href="/recipe" className="hover:text-orange-500">Latest Recipes</Link></li>
                 </ul>
                 <div className="flex items-center space-x-4">
                     <a href="#" className="hover:text-orange-500">

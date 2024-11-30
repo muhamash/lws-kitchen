@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Cat ( { data } )
 {
-    const categoryImage = `/assets${data.image}`;
+    const categoryImage = `/assets${data?.image}`;
 
      console.log( categoryImage );
     return (

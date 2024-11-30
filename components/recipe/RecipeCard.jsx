@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import RecipeImage from '../../assets/thumbs/thumb-10.jpg';
+import RecipeImage from '/public/assets/thumbs/thumb-10.jpg';
 
 export default function RecipeCard() {
     return (
