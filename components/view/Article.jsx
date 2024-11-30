@@ -1,16 +1,20 @@
 // import Image from "next/image";
 
-export default function Article() {
+import Image from "next/image"
+
+export default function Article ( { data } )
+{
+  const ArticleBanner = `/assets/thumbs/${data.thumbnail}`
   return (
     <article>
-      <h1 className="text-4xl md:text-5xl font-bold mb-6">A full guide for a better and smarter cooking</h1>
+      <h1 className="text-4xl md:text-5xl font-bold mb-6">{ data.title }</h1>
       <div className="flex items-center space-x-4 mb-6">
-        {/* <Image src="./assets/avater.png" alt="Author" className="w-8 h-8 rounded-full" /> */}
-        <span className="text-gray-600">Tricia Albert</span>
+        <Image height={ 50 } width={50} src="/assets/avater.png" alt="Author" className="w-8 h-8 rounded-full" />
+        <span className="text-gray-600">{data.author}</span>
         <span className="text-gray-400">|</span>
-        <span className="text-gray-600">15 mins</span>
+        <span className="text-gray-600">{ data.cooking_time }</span>
         <span className="text-gray-400">|</span>
-        <span className="text-gray-600">12 Nov 2021</span>
+        <span className="text-gray-600">{ data.published_date }</span>
       </div>
       <div className="flex justify-between items-center mb-8">
         <div className="flex space-x-4">
@@ -31,10 +35,9 @@ export default function Article() {
           </button>
         </div>
       </div>
-      {/* <Image src="./assets/single-banner.jpg" alt="Cooking Image" className="w-full h-auto mb-8 rounded-lg" /> */}
+      <Image src={ArticleBanner} alt="Cooking Image" className="w-full h-auto mb-8 rounded-lg" height={ 200 } width={200} />
       <p className="text-gray-600 mb-8">
-        One thing I learned living in the Catskills section of Brooklyn, NY was how to cook a good Italian meal. Here
-        is a recipe I created after having this dish in a restaurant. Enjoy!
+        {data.description}
       </p>
 
       <h2 className="text-3xl font-bold mb-4">Before you begin</h2>

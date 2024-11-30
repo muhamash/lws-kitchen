@@ -1,5 +1,5 @@
 'use client'
- 
+
 import Image from "next/image";
 import { useRouter } from 'next/navigation';
 
@@ -10,7 +10,7 @@ export default function Cat ( { data } )
 
     //  console.log( categoryImage );
     return (
-        <div onClick={() => router.push(`/${data.name}/recipes`)} className="cursor-pointer text-center group">
+        <div onClick={() => router.push(`/${data.id}/recipes`)} className="cursor-pointer text-center group">
             <div className="overflow-hidden rounded-full mb-2 w-20 h-20 mx-auto relative">
                 <Image
                     src={categoryImage}

@@ -8,7 +8,6 @@ export default function Hero ()
     const heroImage = `/assets/thumbs/${recipe[ 1 ].thumbnail}`;
     const categoryName = CategoryData?.find(cat => cat.id === recipe[ 1 ].category_id)?.name;
 
-
     return (
         <section className="mb-16 bg-orange-50">
             <div className="grid md:grid-cols-2 gap-8 items-center">

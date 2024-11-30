@@ -19,8 +19,7 @@ export default function PopularCatCard ()
         .sort( ( a, b ) => b.popularity - a.popularity )
         .slice( 0, 6 );
 
-    console.log( topPopularData.length );
-
+    // console.log( topPopularData.length );
     return (
         <section className="mb-16">
             <div className="flex justify-between items-top">

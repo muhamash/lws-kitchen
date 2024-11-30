@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import HeaderImage from '/public/assets/lws-kitchen.png';
 
 export default function Footer() {
@@ -7,9 +8,9 @@ export default function Footer() {
             <div className="container mx-auto px-4">
                 <div className="grid md:grid-cols-4 gap-8">
                     <div>
-                        <a href="/index.html" className="text-3xl font-bold">
+                        <Link href="/" className="text-3xl font-bold">
                             <Image src={ HeaderImage } alt={ "header" } className="h-10 w-fit" />
-                        </a>
+                        </Link>
                         <p className="text-gray-600 mt-2 text-sm">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et
                             dolore magna aliqua.
