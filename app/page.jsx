@@ -24,7 +24,23 @@ export default function Home ()
     } )
     .slice( 0, 3 );
 
-  console.log( topRatedRecipes[2] );
+  // console.log( topRatedRecipes[2] );
+  // console.log( recipes[ 0 ] );
+  
+  const latestRecipes = recipes
+    .sort( ( a, b ) =>
+    {
+      const dateDiff = new Date( b.published_date ) - new Date( a.published_date );
+      if ( dateDiff !== 0 )
+      {
+        return dateDiff;
+      }
+      // If dates are the same, prioritize by rating_count
+      return ( b.rating?.rating_count || 0 ) - ( a.rating?.rating_count || 0 );
+    } )
+    .slice( 0, 4 );
+
+  // console.log( typeof latestRecipes[0].title );
   
   return (
     <div className="container mx-auto px-4 mt-[100px]">
@@ -49,10 +65,10 @@ export default function Home ()
       <Inbox />
 
       {/* Hand-picked Collection */ }
-      <HandPicked />
+      <HandPicked handPickedOne={ topRatedRecipes[0] } handPickedTwo={topRatedRecipes[1]} />
 
       {/* Latest Recipe */ }
-      <Latest />
+      <Latest data={ latestRecipes } />
     </div>
   );
 }

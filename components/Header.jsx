@@ -14,7 +14,7 @@ export default function Header() {
                 <ul className="hidden md:flex space-x-6">
                     <li><Link href="/" className="hover:text-orange-500">Home</Link></li>
                     <li><Link href="/category" className="hover:text-orange-500">Categories</Link></li>
-                    <li><Link href="/recipe" className="hover:text-orange-500">Latest Recipes</Link></li>
+                    {/* <li><Link href="/recipes" className="hover:text-orange-500">Latest Recipes</Link></li> */}
                 </ul>
                 <div className="flex items-center space-x-4">
                     <a href="#" className="hover:text-orange-500">
