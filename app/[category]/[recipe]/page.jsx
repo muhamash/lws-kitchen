@@ -21,8 +21,8 @@ export default function RecipePage() {
     })
     .slice( 0, 4 );
   
-  const mapRecipe = recipe.map( ( r ) => r.category_id )
-  console.log(mapRecipe.length)
+  // const mapRecipe = recipe.map( ( r ) => r.category_id )
+  // console.log(mapRecipe.length)
 
   return (
     <div className="container mx-auto px-4 py-10 mt-10">

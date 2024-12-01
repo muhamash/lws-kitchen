@@ -144,42 +144,224 @@
   },
   {
     "rating": {
-      "rating_count": 18,
-      "average_rating": 3.8
+      "rating_count": 53,
+      "average_rating": "4.0"
     },
     "category_id": "7f8d5a1c-9b3e-4a6f-8f1d-5c9a9e2b3d4e",
-    "description": "There's nothing quite like a bowl of warm, comforting soup. Whether you're battling a cold or just in need of a cozy meal, soup always does the trick. This blog features a collection of hearty and healthy soups that are easy to make and full of flavor. From classic chicken noodle soup to creamy tomato bisque, you'll find something to satisfy your cravings. These recipes are perfect for meal prep, and most can be made in under 30 minutes. So grab a spoon and dive into these comforting bowls of goodness!",
-    "title": "10 Hearty and Healthy Soups for Any Season",
-    "published_date": "2024-04-02",
-    "cooking_time": "30 minutes",
-    "author": "John Carter",
-    "thumbnail": "thumb-12.jpg"
+    "description": "Recipe description 1 for category 7f8d5a1c-9b3e-4a6f-8f1d-5c9a9e2b3d4e",
+    "title": "Recipe 1-1",
+    "published_date": "2024-09-01",
+    "cooking_time": "20 minutes",
+    "author": "Author 1-1",
+    "thumbnail": "thumb-1.jpg"
   },
   {
     "rating": {
-      "rating_count": 20,
-      "average_rating": 4.5
+      "rating_count": 79,
+      "average_rating": "4.1"
+    },
+    "category_id": "7f8d5a1c-9b3e-4a6f-8f1d-5c9a9e2b3d4e",
+    "description": "Recipe description 2 for category 7f8d5a1c-9b3e-4a6f-8f1d-5c9a9e2b3d4e",
+    "title": "Recipe 1-2",
+    "published_date": "2024-09-02",
+    "cooking_time": "25 minutes",
+    "author": "Author 1-2",
+    "thumbnail": "thumb-2.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 19,
+      "average_rating": "1.2"
+    },
+    "category_id": "7f8d5a1c-9b3e-4a6f-8f1d-5c9a9e2b3d4e",
+    "description": "Recipe description 3 for category 7f8d5a1c-9b3e-4a6f-8f1d-5c9a9e2b3d4e",
+    "title": "Recipe 1-3",
+    "published_date": "2024-09-03",
+    "cooking_time": "30 minutes",
+    "author": "Author 1-3",
+    "thumbnail": "thumb-3.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 83,
+      "average_rating": "1.8"
+    },
+    "category_id": "7f8d5a1c-9b3e-4a6f-8f1d-5c9a9e2b3d4e",
+    "description": "Recipe description 4 for category 7f8d5a1c-9b3e-4a6f-8f1d-5c9a9e2b3d4e",
+    "title": "Recipe 1-4",
+    "published_date": "2024-09-04",
+    "cooking_time": "35 minutes",
+    "author": "Author 1-4",
+    "thumbnail": "thumb-4.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 14,
+      "average_rating": "3.0"
+    },
+    "category_id": "7f8d5a1c-9b3e-4a6f-8f1d-5c9a9e2b3d4e",
+    "description": "Recipe description 5 for category 7f8d5a1c-9b3e-4a6f-8f1d-5c9a9e2b3d4e",
+    "title": "Recipe 1-5",
+    "published_date": "2024-09-05",
+    "cooking_time": "40 minutes",
+    "author": "Author 1-5",
+    "thumbnail": "thumb-5.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 4,
+      "average_rating": "3.6"
+    },
+    "category_id": "7f8d5a1c-9b3e-4a6f-8f1d-5c9a9e2b3d4e",
+    "description": "Recipe description 6 for category 7f8d5a1c-9b3e-4a6f-8f1d-5c9a9e2b3d4e",
+    "title": "Recipe 1-6",
+    "published_date": "2024-09-06",
+    "cooking_time": "45 minutes",
+    "author": "Author 1-6",
+    "thumbnail": "thumb-6.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 40,
+      "average_rating": "4.7"
     },
     "category_id": "3a1b2c3d-4e5f-6g7h-8i9j-0k1l2m3n4o5p",
-    "description": "Fluffy, light, and delicious, pancakes are a breakfast staple that everyone loves. This blog dives into the world of pancakes, from the classic buttermilk version to more adventurous varieties like banana walnut or blueberry ricotta pancakes. Whether you prefer your pancakes with syrup, fruit, or a dusting of powdered sugar, this guide will teach you how to make the perfect stack every time. These recipes are great for weekend brunches, quick breakfasts, or even dessert!",
-    "title": "Mastering the Art of Perfect Pancakes",
-    "published_date": "2024-03-10",
-    "cooking_time": "20 minutes",
-    "author": "Emily Stone",
-    "thumbnail": "thumb-7.jpg"
+    "description": "Recipe description 2 for category 3a1b2c3d-4e5f-6g7h-8i9j-0k1l2m3n4o5p",
+    "title": "Recipe 1-2",
+    "published_date": "2024-09-02",
+    "cooking_time": "25 minutes",
+    "author": "Author 1-2",
+    "thumbnail": "thumb-2.jpg"
   },
   {
     "rating": {
-      "rating_count": 15,
-      "average_rating": 4.0
+      "rating_count": 21,
+      "average_rating": "1.6"
+    },
+    "category_id": "3a1b2c3d-4e5f-6g7h-8i9j-0k1l2m3n4o5p",
+    "description": "Recipe description 3 for category 3a1b2c3d-4e5f-6g7h-8i9j-0k1l2m3n4o5p",
+    "title": "Recipe 1-3",
+    "published_date": "2024-09-03",
+    "cooking_time": "30 minutes",
+    "author": "Author 1-3",
+    "thumbnail": "thumb-3.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 57,
+      "average_rating": "2.3"
+    },
+    "category_id": "3a1b2c3d-4e5f-6g7h-8i9j-0k1l2m3n4o5p",
+    "description": "Recipe description 4 for category 3a1b2c3d-4e5f-6g7h-8i9j-0k1l2m3n4o5p",
+    "title": "Recipe 1-4",
+    "published_date": "2024-09-04",
+    "cooking_time": "35 minutes",
+    "author": "Author 1-4",
+    "thumbnail": "thumb-4.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 38,
+      "average_rating": "2.6"
+    },
+    "category_id": "3a1b2c3d-4e5f-6g7h-8i9j-0k1l2m3n4o5p",
+    "description": "Recipe description 5 for category 3a1b2c3d-4e5f-6g7h-8i9j-0k1l2m3n4o5p",
+    "title": "Recipe 1-5",
+    "published_date": "2024-09-05",
+    "cooking_time": "40 minutes",
+    "author": "Author 1-5",
+    "thumbnail": "thumb-5.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 52,
+      "average_rating": "3.0"
+    },
+    "category_id": "3a1b2c3d-4e5f-6g7h-8i9j-0k1l2m3n4o5p",
+    "description": "Recipe description 6 for category 3a1b2c3d-4e5f-6g7h-8i9j-0k1l2m3n4o5p",
+    "title": "Recipe 1-6",
+    "published_date": "2024-09-06",
+    "cooking_time": "45 minutes",
+    "author": "Author 1-6",
+    "thumbnail": "thumb-6.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 29,
+      "average_rating": "4.6"
     },
     "category_id": "2c3d4e5f-6g7h-8i9j-0k1l-2m3n4o5p6q7r",
-    "description": "Meat lovers, rejoice! This blog is dedicated to the art of cooking meat to perfection. Whether you're grilling, roasting, or slow-cooking, we've got you covered with expert tips and delicious recipes. From juicy steaks to tender pork chops and flavorful lamb dishes, you'll find a recipe for every occasion. Learn the secrets to achieving the perfect sear, mastering marinades, and selecting the best cuts of meat for your meals.",
-    "title": "The Ultimate Guide to Cooking Meat",
-    "published_date": "2024-05-08",
+    "description": "Recipe description 1 for category 2c3d4e5f-6g7h-8i9j-0k1l-2m3n4o5p6q7r",
+    "title": "Recipe 1-1",
+    "published_date": "2024-09-01",
+    "cooking_time": "20 minutes",
+    "author": "Author 1-1",
+    "thumbnail": "thumb-1.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 86,
+      "average_rating": "4.4"
+    },
+    "category_id": "2c3d4e5f-6g7h-8i9j-0k1l-2m3n4o5p6q7r",
+    "description": "Recipe description 2 for category 2c3d4e5f-6g7h-8i9j-0k1l-2m3n4o5p6q7r",
+    "title": "Recipe 1-2",
+    "published_date": "2024-09-02",
+    "cooking_time": "25 minutes",
+    "author": "Author 1-2",
+    "thumbnail": "thumb-2.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 57,
+      "average_rating": "2.1"
+    },
+    "category_id": "2c3d4e5f-6g7h-8i9j-0k1l-2m3n4o5p6q7r",
+    "description": "Recipe description 3 for category 2c3d4e5f-6g7h-8i9j-0k1l-2m3n4o5p6q7r",
+    "title": "Recipe 1-3",
+    "published_date": "2024-09-03",
+    "cooking_time": "30 minutes",
+    "author": "Author 1-3",
+    "thumbnail": "thumb-3.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 91,
+      "average_rating": "1.8"
+    },
+    "category_id": "2c3d4e5f-6g7h-8i9j-0k1l-2m3n4o5p6q7r",
+    "description": "Recipe description 4 for category 2c3d4e5f-6g7h-8i9j-0k1l-2m3n4o5p6q7r",
+    "title": "Recipe 1-4",
+    "published_date": "2024-09-04",
+    "cooking_time": "35 minutes",
+    "author": "Author 1-4",
+    "thumbnail": "thumb-4.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 62,
+      "average_rating": "0.8"
+    },
+    "category_id": "2c3d4e5f-6g7h-8i9j-0k1l-2m3n4o5p6q7r",
+    "description": "Recipe description 5 for category 2c3d4e5f-6g7h-8i9j-0k1l-2m3n4o5p6q7r",
+    "title": "Recipe 1-5",
+    "published_date": "2024-09-05",
+    "cooking_time": "40 minutes",
+    "author": "Author 1-5",
+    "thumbnail": "thumb-5.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 54,
+      "average_rating": "2.5"
+    },
+    "category_id": "2c3d4e5f-6g7h-8i9j-0k1l-2m3n4o5p6q7r",
+    "description": "Recipe description 6 for category 2c3d4e5f-6g7h-8i9j-0k1l-2m3n4o5p6q7r",
+    "title": "Recipe 1-6",
+    "published_date": "2024-09-06",
     "cooking_time": "45 minutes",
-    "author": "James Martinez",
-    "thumbnail": "thumb-11.jpg"
+    "author": "Author 1-6",
+    "thumbnail": "thumb-6.jpg"
   },
   {
     "rating": {
@@ -1519,5 +1701,902 @@
     "cooking_time": "45 minutes",
     "author": "Author 26-6",
     "thumbnail": "thumb-6.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 38,
+      "average_rating": "0.6"
+    },
+    "category_id": "n4o5p6q7-r8s9-t0u1-v2w3-x4y5z6a7b8c9",
+    "description": "Recipe description 1 for category n4o5p6q7-r8s9-t0u1-v2w3-x4y5z6a7b8c9",
+    "title": "Recipe 1-1",
+    "published_date": "2024-09-01",
+    "cooking_time": "20 minutes",
+    "author": "Author 1-1",
+    "thumbnail": "thumb-1.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 32,
+      "average_rating": "1.4"
+    },
+    "category_id": "n4o5p6q7-r8s9-t0u1-v2w3-x4y5z6a7b8c9",
+    "description": "Recipe description 2 for category n4o5p6q7-r8s9-t0u1-v2w3-x4y5z6a7b8c9",
+    "title": "Recipe 1-2",
+    "published_date": "2024-09-02",
+    "cooking_time": "25 minutes",
+    "author": "Author 1-2",
+    "thumbnail": "thumb-2.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 14,
+      "average_rating": "0.3"
+    },
+    "category_id": "n4o5p6q7-r8s9-t0u1-v2w3-x4y5z6a7b8c9",
+    "description": "Recipe description 3 for category n4o5p6q7-r8s9-t0u1-v2w3-x4y5z6a7b8c9",
+    "title": "Recipe 1-3",
+    "published_date": "2024-09-03",
+    "cooking_time": "30 minutes",
+    "author": "Author 1-3",
+    "thumbnail": "thumb-3.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 43,
+      "average_rating": "2.5"
+    },
+    "category_id": "n4o5p6q7-r8s9-t0u1-v2w3-x4y5z6a7b8c9",
+    "description": "Recipe description 4 for category n4o5p6q7-r8s9-t0u1-v2w3-x4y5z6a7b8c9",
+    "title": "Recipe 1-4",
+    "published_date": "2024-09-04",
+    "cooking_time": "35 minutes",
+    "author": "Author 1-4",
+    "thumbnail": "thumb-4.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 64,
+      "average_rating": "0.9"
+    },
+    "category_id": "n4o5p6q7-r8s9-t0u1-v2w3-x4y5z6a7b8c9",
+    "description": "Recipe description 5 for category n4o5p6q7-r8s9-t0u1-v2w3-x4y5z6a7b8c9",
+    "title": "Recipe 1-5",
+    "published_date": "2024-09-05",
+    "cooking_time": "40 minutes",
+    "author": "Author 1-5",
+    "thumbnail": "thumb-5.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 66,
+      "average_rating": "2.7"
+    },
+    "category_id": "n4o5p6q7-r8s9-t0u1-v2w3-x4y5z6a7b8c9",
+    "description": "Recipe description 6 for category n4o5p6q7-r8s9-t0u1-v2w3-x4y5z6a7b8c9",
+    "title": "Recipe 1-6",
+    "published_date": "2024-09-06",
+    "cooking_time": "45 minutes",
+    "author": "Author 1-6",
+    "thumbnail": "thumb-6.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 8,
+      "average_rating": "0.0"
+    },
+    "category_id": "q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2",
+    "description": "Recipe description 1 for category q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2",
+    "title": "Recipe 2-1",
+    "published_date": "2024-09-01",
+    "cooking_time": "20 minutes",
+    "author": "Author 2-1",
+    "thumbnail": "thumb-1.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 85,
+      "average_rating": "3.6"
+    },
+    "category_id": "q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2",
+    "description": "Recipe description 2 for category q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2",
+    "title": "Recipe 2-2",
+    "published_date": "2024-09-02",
+    "cooking_time": "25 minutes",
+    "author": "Author 2-2",
+    "thumbnail": "thumb-2.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 56,
+      "average_rating": "4.4"
+    },
+    "category_id": "q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2",
+    "description": "Recipe description 3 for category q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2",
+    "title": "Recipe 2-3",
+    "published_date": "2024-09-03",
+    "cooking_time": "30 minutes",
+    "author": "Author 2-3",
+    "thumbnail": "thumb-3.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 70,
+      "average_rating": "1.0"
+    },
+    "category_id": "q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2",
+    "description": "Recipe description 4 for category q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2",
+    "title": "Recipe 2-4",
+    "published_date": "2024-09-04",
+    "cooking_time": "35 minutes",
+    "author": "Author 2-4",
+    "thumbnail": "thumb-4.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 56,
+      "average_rating": "1.2"
+    },
+    "category_id": "q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2",
+    "description": "Recipe description 5 for category q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2",
+    "title": "Recipe 2-5",
+    "published_date": "2024-09-05",
+    "cooking_time": "40 minutes",
+    "author": "Author 2-5",
+    "thumbnail": "thumb-5.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 67,
+      "average_rating": "0.9"
+    },
+    "category_id": "q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2",
+    "description": "Recipe description 6 for category q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2",
+    "title": "Recipe 2-6",
+    "published_date": "2024-09-06",
+    "cooking_time": "45 minutes",
+    "author": "Author 2-6",
+    "thumbnail": "thumb-6.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 41,
+      "average_rating": "2.8"
+    },
+    "category_id": "t0u1v2w3-x4y5-z6a7-b8c9-d0e1f2g3h4i5",
+    "description": "Recipe description 1 for category t0u1v2w3-x4y5-z6a7-b8c9-d0e1f2g3h4i5",
+    "title": "Recipe 3-1",
+    "published_date": "2024-09-01",
+    "cooking_time": "20 minutes",
+    "author": "Author 3-1",
+    "thumbnail": "thumb-1.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 50,
+      "average_rating": "4.9"
+    },
+    "category_id": "t0u1v2w3-x4y5-z6a7-b8c9-d0e1f2g3h4i5",
+    "description": "Recipe description 2 for category t0u1v2w3-x4y5-z6a7-b8c9-d0e1f2g3h4i5",
+    "title": "Recipe 3-2",
+    "published_date": "2024-09-02",
+    "cooking_time": "25 minutes",
+    "author": "Author 3-2",
+    "thumbnail": "thumb-2.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 73,
+      "average_rating": "1.4"
+    },
+    "category_id": "t0u1v2w3-x4y5-z6a7-b8c9-d0e1f2g3h4i5",
+    "description": "Recipe description 3 for category t0u1v2w3-x4y5-z6a7-b8c9-d0e1f2g3h4i5",
+    "title": "Recipe 3-3",
+    "published_date": "2024-09-03",
+    "cooking_time": "30 minutes",
+    "author": "Author 3-3",
+    "thumbnail": "thumb-3.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 25,
+      "average_rating": "0.8"
+    },
+    "category_id": "t0u1v2w3-x4y5-z6a7-b8c9-d0e1f2g3h4i5",
+    "description": "Recipe description 4 for category t0u1v2w3-x4y5-z6a7-b8c9-d0e1f2g3h4i5",
+    "title": "Recipe 3-4",
+    "published_date": "2024-09-04",
+    "cooking_time": "35 minutes",
+    "author": "Author 3-4",
+    "thumbnail": "thumb-4.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 23,
+      "average_rating": "0.6"
+    },
+    "category_id": "t0u1v2w3-x4y5-z6a7-b8c9-d0e1f2g3h4i5",
+    "description": "Recipe description 5 for category t0u1v2w3-x4y5-z6a7-b8c9-d0e1f2g3h4i5",
+    "title": "Recipe 3-5",
+    "published_date": "2024-09-05",
+    "cooking_time": "40 minutes",
+    "author": "Author 3-5",
+    "thumbnail": "thumb-5.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 55,
+      "average_rating": "4.1"
+    },
+    "category_id": "t0u1v2w3-x4y5-z6a7-b8c9-d0e1f2g3h4i5",
+    "description": "Recipe description 6 for category t0u1v2w3-x4y5-z6a7-b8c9-d0e1f2g3h4i5",
+    "title": "Recipe 3-6",
+    "published_date": "2024-09-06",
+    "cooking_time": "45 minutes",
+    "author": "Author 3-6",
+    "thumbnail": "thumb-6.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 25,
+      "average_rating": "1.1"
+    },
+    "category_id": "w3x4y5z6-a7b8-c9d0-e1f2-g3h4i5j6k7l8",
+    "description": "Recipe description 1 for category w3x4y5z6-a7b8-c9d0-e1f2-g3h4i5j6k7l8",
+    "title": "Recipe 4-1",
+    "published_date": "2024-09-01",
+    "cooking_time": "20 minutes",
+    "author": "Author 4-1",
+    "thumbnail": "thumb-1.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 87,
+      "average_rating": "1.4"
+    },
+    "category_id": "w3x4y5z6-a7b8-c9d0-e1f2-g3h4i5j6k7l8",
+    "description": "Recipe description 2 for category w3x4y5z6-a7b8-c9d0-e1f2-g3h4i5j6k7l8",
+    "title": "Recipe 4-2",
+    "published_date": "2024-09-02",
+    "cooking_time": "25 minutes",
+    "author": "Author 4-2",
+    "thumbnail": "thumb-2.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 2,
+      "average_rating": "3.3"
+    },
+    "category_id": "w3x4y5z6-a7b8-c9d0-e1f2-g3h4i5j6k7l8",
+    "description": "Recipe description 3 for category w3x4y5z6-a7b8-c9d0-e1f2-g3h4i5j6k7l8",
+    "title": "Recipe 4-3",
+    "published_date": "2024-09-03",
+    "cooking_time": "30 minutes",
+    "author": "Author 4-3",
+    "thumbnail": "thumb-3.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 97,
+      "average_rating": "2.2"
+    },
+    "category_id": "w3x4y5z6-a7b8-c9d0-e1f2-g3h4i5j6k7l8",
+    "description": "Recipe description 4 for category w3x4y5z6-a7b8-c9d0-e1f2-g3h4i5j6k7l8",
+    "title": "Recipe 4-4",
+    "published_date": "2024-09-04",
+    "cooking_time": "35 minutes",
+    "author": "Author 4-4",
+    "thumbnail": "thumb-4.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 54,
+      "average_rating": "4.7"
+    },
+    "category_id": "w3x4y5z6-a7b8-c9d0-e1f2-g3h4i5j6k7l8",
+    "description": "Recipe description 5 for category w3x4y5z6-a7b8-c9d0-e1f2-g3h4i5j6k7l8",
+    "title": "Recipe 4-5",
+    "published_date": "2024-09-05",
+    "cooking_time": "40 minutes",
+    "author": "Author 4-5",
+    "thumbnail": "thumb-5.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 83,
+      "average_rating": "1.7"
+    },
+    "category_id": "w3x4y5z6-a7b8-c9d0-e1f2-g3h4i5j6k7l8",
+    "description": "Recipe description 6 for category w3x4y5z6-a7b8-c9d0-e1f2-g3h4i5j6k7l8",
+    "title": "Recipe 4-6",
+    "published_date": "2024-09-06",
+    "cooking_time": "45 minutes",
+    "author": "Author 4-6",
+    "thumbnail": "thumb-6.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 51,
+      "average_rating": "1.0"
+    },
+    "category_id": "z6a7b8c9-d0e1-f2g3-h4i5-j6k7l8m9n0o1",
+    "description": "Recipe description 1 for category z6a7b8c9-d0e1-f2g3-h4i5-j6k7l8m9n0o1",
+    "title": "Recipe 5-1",
+    "published_date": "2024-09-01",
+    "cooking_time": "20 minutes",
+    "author": "Author 5-1",
+    "thumbnail": "thumb-1.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 99,
+      "average_rating": "4.3"
+    },
+    "category_id": "z6a7b8c9-d0e1-f2g3-h4i5-j6k7l8m9n0o1",
+    "description": "Recipe description 2 for category z6a7b8c9-d0e1-f2g3-h4i5-j6k7l8m9n0o1",
+    "title": "Recipe 5-2",
+    "published_date": "2024-09-02",
+    "cooking_time": "25 minutes",
+    "author": "Author 5-2",
+    "thumbnail": "thumb-2.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 82,
+      "average_rating": "4.7"
+    },
+    "category_id": "z6a7b8c9-d0e1-f2g3-h4i5-j6k7l8m9n0o1",
+    "description": "Recipe description 3 for category z6a7b8c9-d0e1-f2g3-h4i5-j6k7l8m9n0o1",
+    "title": "Recipe 5-3",
+    "published_date": "2024-09-03",
+    "cooking_time": "30 minutes",
+    "author": "Author 5-3",
+    "thumbnail": "thumb-3.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 51,
+      "average_rating": "1.5"
+    },
+    "category_id": "z6a7b8c9-d0e1-f2g3-h4i5-j6k7l8m9n0o1",
+    "description": "Recipe description 4 for category z6a7b8c9-d0e1-f2g3-h4i5-j6k7l8m9n0o1",
+    "title": "Recipe 5-4",
+    "published_date": "2024-09-04",
+    "cooking_time": "35 minutes",
+    "author": "Author 5-4",
+    "thumbnail": "thumb-4.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 6,
+      "average_rating": "4.7"
+    },
+    "category_id": "z6a7b8c9-d0e1-f2g3-h4i5-j6k7l8m9n0o1",
+    "description": "Recipe description 5 for category z6a7b8c9-d0e1-f2g3-h4i5-j6k7l8m9n0o1",
+    "title": "Recipe 5-5",
+    "published_date": "2024-09-05",
+    "cooking_time": "40 minutes",
+    "author": "Author 5-5",
+    "thumbnail": "thumb-5.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 76,
+      "average_rating": "1.4"
+    },
+    "category_id": "z6a7b8c9-d0e1-f2g3-h4i5-j6k7l8m9n0o1",
+    "description": "Recipe description 6 for category z6a7b8c9-d0e1-f2g3-h4i5-j6k7l8m9n0o1",
+    "title": "Recipe 5-6",
+    "published_date": "2024-09-06",
+    "cooking_time": "45 minutes",
+    "author": "Author 5-6",
+    "thumbnail": "thumb-6.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 39,
+      "average_rating": "0.8"
+    },
+    "category_id": "c9d0e1f2-g3h4-i5j6-k7l8-m9n0o1p2q3r4",
+    "description": "Recipe description 1 for category c9d0e1f2-g3h4-i5j6-k7l8-m9n0o1p2q3r4",
+    "title": "Recipe 6-1",
+    "published_date": "2024-09-01",
+    "cooking_time": "20 minutes",
+    "author": "Author 6-1",
+    "thumbnail": "thumb-1.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 56,
+      "average_rating": "2.0"
+    },
+    "category_id": "c9d0e1f2-g3h4-i5j6-k7l8-m9n0o1p2q3r4",
+    "description": "Recipe description 2 for category c9d0e1f2-g3h4-i5j6-k7l8-m9n0o1p2q3r4",
+    "title": "Recipe 6-2",
+    "published_date": "2024-09-02",
+    "cooking_time": "25 minutes",
+    "author": "Author 6-2",
+    "thumbnail": "thumb-2.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 2,
+      "average_rating": "0.8"
+    },
+    "category_id": "c9d0e1f2-g3h4-i5j6-k7l8-m9n0o1p2q3r4",
+    "description": "Recipe description 3 for category c9d0e1f2-g3h4-i5j6-k7l8-m9n0o1p2q3r4",
+    "title": "Recipe 6-3",
+    "published_date": "2024-09-03",
+    "cooking_time": "30 minutes",
+    "author": "Author 6-3",
+    "thumbnail": "thumb-3.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 79,
+      "average_rating": "0.1"
+    },
+    "category_id": "c9d0e1f2-g3h4-i5j6-k7l8-m9n0o1p2q3r4",
+    "description": "Recipe description 4 for category c9d0e1f2-g3h4-i5j6-k7l8-m9n0o1p2q3r4",
+    "title": "Recipe 6-4",
+    "published_date": "2024-09-04",
+    "cooking_time": "35 minutes",
+    "author": "Author 6-4",
+    "thumbnail": "thumb-4.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 17,
+      "average_rating": "1.4"
+    },
+    "category_id": "c9d0e1f2-g3h4-i5j6-k7l8-m9n0o1p2q3r4",
+    "description": "Recipe description 5 for category c9d0e1f2-g3h4-i5j6-k7l8-m9n0o1p2q3r4",
+    "title": "Recipe 6-5",
+    "published_date": "2024-09-05",
+    "cooking_time": "40 minutes",
+    "author": "Author 6-5",
+    "thumbnail": "thumb-5.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 38,
+      "average_rating": "4.9"
+    },
+    "category_id": "c9d0e1f2-g3h4-i5j6-k7l8-m9n0o1p2q3r4",
+    "description": "Recipe description 6 for category c9d0e1f2-g3h4-i5j6-k7l8-m9n0o1p2q3r4",
+    "title": "Recipe 6-6",
+    "published_date": "2024-09-06",
+    "cooking_time": "45 minutes",
+    "author": "Author 6-6",
+    "thumbnail": "thumb-6.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 32,
+      "average_rating": "5.0"
+    },
+    "category_id": "f2g3h4i5-j6k7-l8m9-n0o1-p2q3r4s5t6u7",
+    "description": "Recipe description 1 for category f2g3h4i5-j6k7-l8m9-n0o1-p2q3r4s5t6u7",
+    "title": "Recipe 7-1",
+    "published_date": "2024-09-01",
+    "cooking_time": "20 minutes",
+    "author": "Author 7-1",
+    "thumbnail": "thumb-1.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 96,
+      "average_rating": "1.2"
+    },
+    "category_id": "f2g3h4i5-j6k7-l8m9-n0o1-p2q3r4s5t6u7",
+    "description": "Recipe description 2 for category f2g3h4i5-j6k7-l8m9-n0o1-p2q3r4s5t6u7",
+    "title": "Recipe 7-2",
+    "published_date": "2024-09-02",
+    "cooking_time": "25 minutes",
+    "author": "Author 7-2",
+    "thumbnail": "thumb-2.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 27,
+      "average_rating": "3.9"
+    },
+    "category_id": "f2g3h4i5-j6k7-l8m9-n0o1-p2q3r4s5t6u7",
+    "description": "Recipe description 3 for category f2g3h4i5-j6k7-l8m9-n0o1-p2q3r4s5t6u7",
+    "title": "Recipe 7-3",
+    "published_date": "2024-09-03",
+    "cooking_time": "30 minutes",
+    "author": "Author 7-3",
+    "thumbnail": "thumb-3.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 1,
+      "average_rating": "2.6"
+    },
+    "category_id": "f2g3h4i5-j6k7-l8m9-n0o1-p2q3r4s5t6u7",
+    "description": "Recipe description 4 for category f2g3h4i5-j6k7-l8m9-n0o1-p2q3r4s5t6u7",
+    "title": "Recipe 7-4",
+    "published_date": "2024-09-04",
+    "cooking_time": "35 minutes",
+    "author": "Author 7-4",
+    "thumbnail": "thumb-4.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 63,
+      "average_rating": "4.3"
+    },
+    "category_id": "f2g3h4i5-j6k7-l8m9-n0o1-p2q3r4s5t6u7",
+    "description": "Recipe description 5 for category f2g3h4i5-j6k7-l8m9-n0o1-p2q3r4s5t6u7",
+    "title": "Recipe 7-5",
+    "published_date": "2024-09-05",
+    "cooking_time": "40 minutes",
+    "author": "Author 7-5",
+    "thumbnail": "thumb-5.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 53,
+      "average_rating": "1.8"
+    },
+    "category_id": "f2g3h4i5-j6k7-l8m9-n0o1-p2q3r4s5t6u7",
+    "description": "Recipe description 6 for category f2g3h4i5-j6k7-l8m9-n0o1-p2q3r4s5t6u7",
+    "title": "Recipe 7-6",
+    "published_date": "2024-09-06",
+    "cooking_time": "45 minutes",
+    "author": "Author 7-6",
+    "thumbnail": "thumb-6.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 31,
+      "average_rating": "3.8"
+    },
+    "category_id": "i5j6k7l8-m9n0-o1p2-q3r4-s5t6u7v8w9x0",
+    "description": "Recipe description 1 for category i5j6k7l8-m9n0-o1p2-q3r4-s5t6u7v8w9x0",
+    "title": "Recipe 8-1",
+    "published_date": "2024-09-01",
+    "cooking_time": "20 minutes",
+    "author": "Author 8-1",
+    "thumbnail": "thumb-1.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 31,
+      "average_rating": "1.2"
+    },
+    "category_id": "i5j6k7l8-m9n0-o1p2-q3r4-s5t6u7v8w9x0",
+    "description": "Recipe description 2 for category i5j6k7l8-m9n0-o1p2-q3r4-s5t6u7v8w9x0",
+    "title": "Recipe 8-2",
+    "published_date": "2024-09-02",
+    "cooking_time": "25 minutes",
+    "author": "Author 8-2",
+    "thumbnail": "thumb-2.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 5,
+      "average_rating": "2.4"
+    },
+    "category_id": "i5j6k7l8-m9n0-o1p2-q3r4-s5t6u7v8w9x0",
+    "description": "Recipe description 3 for category i5j6k7l8-m9n0-o1p2-q3r4-s5t6u7v8w9x0",
+    "title": "Recipe 8-3",
+    "published_date": "2024-09-03",
+    "cooking_time": "30 minutes",
+    "author": "Author 8-3",
+    "thumbnail": "thumb-3.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 46,
+      "average_rating": "3.4"
+    },
+    "category_id": "i5j6k7l8-m9n0-o1p2-q3r4-s5t6u7v8w9x0",
+    "description": "Recipe description 4 for category i5j6k7l8-m9n0-o1p2-q3r4-s5t6u7v8w9x0",
+    "title": "Recipe 8-4",
+    "published_date": "2024-09-04",
+    "cooking_time": "35 minutes",
+    "author": "Author 8-4",
+    "thumbnail": "thumb-4.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 46,
+      "average_rating": "3.9"
+    },
+    "category_id": "i5j6k7l8-m9n0-o1p2-q3r4-s5t6u7v8w9x0",
+    "description": "Recipe description 5 for category i5j6k7l8-m9n0-o1p2-q3r4-s5t6u7v8w9x0",
+    "title": "Recipe 8-5",
+    "published_date": "2024-09-05",
+    "cooking_time": "40 minutes",
+    "author": "Author 8-5",
+    "thumbnail": "thumb-5.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 26,
+      "average_rating": "0.6"
+    },
+    "category_id": "i5j6k7l8-m9n0-o1p2-q3r4-s5t6u7v8w9x0",
+    "description": "Recipe description 6 for category i5j6k7l8-m9n0-o1p2-q3r4-s5t6u7v8w9x0",
+    "title": "Recipe 8-6",
+    "published_date": "2024-09-06",
+    "cooking_time": "45 minutes",
+    "author": "Author 8-6",
+    "thumbnail": "thumb-6.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 31,
+      "average_rating": "1.1"
+    },
+    "category_id": "l8m9n0o1-p2q3-r4s5-t6u7-v8w9x0y1z2a3",
+    "description": "Recipe description 1 for category l8m9n0o1-p2q3-r4s5-t6u7-v8w9x0y1z2a3",
+    "title": "Recipe 9-1",
+    "published_date": "2024-09-01",
+    "cooking_time": "20 minutes",
+    "author": "Author 9-1",
+    "thumbnail": "thumb-1.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 40,
+      "average_rating": "4.0"
+    },
+    "category_id": "l8m9n0o1-p2q3-r4s5-t6u7-v8w9x0y1z2a3",
+    "description": "Recipe description 2 for category l8m9n0o1-p2q3-r4s5-t6u7-v8w9x0y1z2a3",
+    "title": "Recipe 9-2",
+    "published_date": "2024-09-02",
+    "cooking_time": "25 minutes",
+    "author": "Author 9-2",
+    "thumbnail": "thumb-2.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 54,
+      "average_rating": "3.2"
+    },
+    "category_id": "l8m9n0o1-p2q3-r4s5-t6u7-v8w9x0y1z2a3",
+    "description": "Recipe description 3 for category l8m9n0o1-p2q3-r4s5-t6u7-v8w9x0y1z2a3",
+    "title": "Recipe 9-3",
+    "published_date": "2024-09-03",
+    "cooking_time": "30 minutes",
+    "author": "Author 9-3",
+    "thumbnail": "thumb-3.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 55,
+      "average_rating": "1.1"
+    },
+    "category_id": "l8m9n0o1-p2q3-r4s5-t6u7-v8w9x0y1z2a3",
+    "description": "Recipe description 4 for category l8m9n0o1-p2q3-r4s5-t6u7-v8w9x0y1z2a3",
+    "title": "Recipe 9-4",
+    "published_date": "2024-09-04",
+    "cooking_time": "35 minutes",
+    "author": "Author 9-4",
+    "thumbnail": "thumb-4.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 23,
+      "average_rating": "2.7"
+    },
+    "category_id": "l8m9n0o1-p2q3-r4s5-t6u7-v8w9x0y1z2a3",
+    "description": "Recipe description 5 for category l8m9n0o1-p2q3-r4s5-t6u7-v8w9x0y1z2a3",
+    "title": "Recipe 9-5",
+    "published_date": "2024-09-05",
+    "cooking_time": "40 minutes",
+    "author": "Author 9-5",
+    "thumbnail": "thumb-5.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 79,
+      "average_rating": "0.0"
+    },
+    "category_id": "l8m9n0o1-p2q3-r4s5-t6u7-v8w9x0y1z2a3",
+    "description": "Recipe description 6 for category l8m9n0o1-p2q3-r4s5-t6u7-v8w9x0y1z2a3",
+    "title": "Recipe 9-6",
+    "published_date": "2024-09-06",
+    "cooking_time": "45 minutes",
+    "author": "Author 9-6",
+    "thumbnail": "thumb-6.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 38,
+      "average_rating": "2.6"
+    },
+    "category_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "description": "Recipe description 1 for category f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "title": "Recipe 10-1",
+    "published_date": "2024-09-01",
+    "cooking_time": "20 minutes",
+    "author": "Author 10-1",
+    "thumbnail": "thumb-1.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 78,
+      "average_rating": "2.5"
+    },
+    "category_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "description": "Recipe description 2 for category f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "title": "Recipe 10-2",
+    "published_date": "2024-09-02",
+    "cooking_time": "25 minutes",
+    "author": "Author 10-2",
+    "thumbnail": "thumb-2.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 34,
+      "average_rating": "2.0"
+    },
+    "category_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "description": "Recipe description 3 for category f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "title": "Recipe 10-3",
+    "published_date": "2024-09-03",
+    "cooking_time": "30 minutes",
+    "author": "Author 10-3",
+    "thumbnail": "thumb-3.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 70,
+      "average_rating": "4.4"
+    },
+    "category_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "description": "Recipe description 4 for category f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "title": "Recipe 10-4",
+    "published_date": "2024-09-04",
+    "cooking_time": "35 minutes",
+    "author": "Author 10-4",
+    "thumbnail": "thumb-4.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 59,
+      "average_rating": "2.8"
+    },
+    "category_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "description": "Recipe description 5 for category f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "title": "Recipe 10-5",
+    "published_date": "2024-09-05",
+    "cooking_time": "40 minutes",
+    "author": "Author 10-5",
+    "thumbnail": "thumb-5.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 57,
+      "average_rating": "1.6"
+    },
+    "category_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "description": "Recipe description 6 for category f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "title": "Recipe 10-6",
+    "published_date": "2024-09-06",
+    "cooking_time": "45 minutes",
+    "author": "Author 10-6",
+    "thumbnail": "thumb-6.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 32,
+      "average_rating": 4.5
+    },
+    "category_id": "n4o5p6q7-r8s9-t0u1-v2w3-x4y5z6a7b8c9",
+    "description": "Explore vibrant, bold, and delicious plant-based recipes in this vegan guide. Featuring dishes like lentil curries, creamy nut-based desserts, and hearty soups, this blog inspires plant-based creativity for all occasions.",
+    "title": "Flavor-Packed Vegan Creations",
+    "published_date": "2024-09-01",
+    "cooking_time": "35 minutes",
+    "author": "Mia Cooper",
+    "thumbnail": "thumb-6.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 27,
+      "average_rating": 4.3
+    },
+    "category_id": "q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2",
+    "description": "From timeless sweet classics to exotic desserts, learn how to create stunning confections that are as delightful to the eyes as they are to the palate. Perfect for all skill levels!",
+    "title": "A World of Irresistible Desserts",
+    "published_date": "2024-07-24",
+    "cooking_time": "50 minutes",
+    "author": "Emma Moore",
+    "thumbnail": "thumb-10.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 19,
+      "average_rating": 4.0
+    },
+    "category_id": "t0u1v2w3-x4y5-z6a7-b8c9-d0e1f2g3h4i5",
+    "description": "Dive into refreshing, nutrient-packed smoothies! This blog features tropical blends, green detox options, and berry protein shakes to energize your day in minutes.",
+    "title": "Smoothie Bliss: Quick and Easy Recipes",
+    "published_date": "2024-06-22",
+    "cooking_time": "10 minutes",
+    "author": "Lucas Baker",
+    "thumbnail": "thumb-5.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 28,
+      "average_rating": 4.4
+    },
+    "category_id": "w3x4y5z6-a7b8-c9d0-e1f2-g3h4i5j6k7l8",
+    "description": "Transform your mornings with a variety of healthy and delicious breakfast ideas. From protein-packed bowls to indulgent waffles, start your day with energy and joy!",
+    "title": "Breakfast Inspirations for Every Morning",
+    "published_date": "2024-08-05",
+    "cooking_time": "20 minutes",
+    "author": "Grace Adams",
+    "thumbnail": "thumb-14.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 21,
+      "average_rating": 3.9
+    },
+    "category_id": "z6a7b8c9-d0e1-f2g3-h4i5-j6k7l8m9n0o1",
+    "description": "Revamp your salad game with creative, flavorful recipes! From nutrient-packed greens to zesty dressings, these salads will redefine mealtime satisfaction.",
+    "title": "Ultimate Salad Makeover Recipes",
+    "published_date": "2024-07-13",
+    "cooking_time": "15 minutes",
+    "author": "Chloe Bennett",
+    "thumbnail": "thumb-3.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 35,
+      "average_rating": 4.7
+    },
+    "category_id": "c9d0e1f2-g3h4-i5j6-k7l8-m9n0o1p2q3r4",
+    "description": "Elevate your sandwich-making skills with gourmet recipes. Learn to build the ultimate sandwich with flavorful fillings, fresh bread, and creative spreads.",
+    "title": "The Art of Crafting Delicious Sandwiches",
+    "published_date": "2024-05-18",
+    "cooking_time": "15 minutes",
+    "author": "Ethan Clark",
+    "thumbnail": "thumb-2.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 30,
+      "average_rating": 4.6
+    },
+    "category_id": "f2g3h4i5-j6k7-l8m9-n0o1-p2q3r4s5t6u7",
+    "description": "Whether sweet or savory, waffles are a crowd favorite. Discover recipes for classic Belgian waffles and creative variations that delight.",
+    "title": "Waffles: A Culinary Delight for All",
+    "published_date": "2024-04-28",
+    "cooking_time": "25 minutes",
+    "author": "David Hernandez",
+    "thumbnail": "thumb-1.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 18,
+      "average_rating": 4.0
+    },
+    "category_id": "i5j6k7l8-m9n0-o1p2-q3r4-s5t6u7v8w9x0",
+    "description": "Master ramen with homemade noodles, rich broths, and diverse toppings. This guide covers traditional and fusion recipes to warm your soul.",
+    "title": "Ramen Crafting: Authentic and Modern Styles",
+    "published_date": "2024-09-10",
+    "cooking_time": "45 minutes",
+    "author": "Zoe Foster",
+    "thumbnail": "thumb-6.jpg"
+  },
+  {
+    "rating": {
+      "rating_count": 14,
+      "average_rating": 3.5
+    },
+    "category_id": "l8m9n0o1-p2q3-r4s5-t6u7-v8w9x0y1z2a3",
+    "description": "Dip into these easy and flavorful recipes for every occasion. From hummus to roasted red pepper spreads, these dips are sure to impress.",
+    "title": "Delicious Dips: Party-Perfect Recipes",
+    "published_date": "2024-06-02",
+    "cooking_time": "15 minutes",
+    "author": "Ella Martin",
+    "thumbnail": "thumb-13.jpg"
   }
 ]
