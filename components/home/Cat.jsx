@@ -7,10 +7,9 @@ export default function Cat ( { data } )
 {
     const router = useRouter()
     const categoryImage = `/assets${data?.image}`;
-
     //  console.log( categoryImage );
     return (
-        <div onClick={() => router.push(`/${data.id}/recipes`)} className="cursor-pointer text-center group">
+        <div onClick={() => router.push(`/recipes/${data.id}`)} className="cursor-pointer text-center group">
             <div className="overflow-hidden rounded-full mb-2 w-20 h-20 mx-auto relative">
                 <Image
                     src={categoryImage}

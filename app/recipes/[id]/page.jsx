@@ -7,9 +7,9 @@ import recipe from '/public/data/recipes.json';
 export default function Recipes ()
 {
     const params = useParams();
-    const findRecipes = recipe.filter( ( r ) => r.category_id === params.category );
-    // console.log( findRecipes );
-    const categoryName = CategoryData?.find( cat => cat.id === params.category )?.name;
+    const findRecipes = recipe.filter( ( r ) => r.category_id === params.id );
+    // console.log( params );
+    const categoryName = CategoryData?.find( cat => cat.id === params.id )?.name;
 
     return (
         <div className="container mx-auto px-4 py-8 mt-[100px]">
